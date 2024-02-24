@@ -1,0 +1,52 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.address{
+    font-size: 13px;
+}
+ #card-body-title{
+    font-size: 20px;
+    color: #212529;
+
+ }
+
+ #card-body-subtitle{
+    font-size: 16px;
+}
+
+#card-body-address{
+    font-size: 13px;
+}
+
+#form-box{
+    color: white;
+   max-width: 100%;
+
+}
+
+.form-title{
+    margin-top:5%;
+    font-size: 21px;
+    font-weight: 500;
+    margin-bottom: 15px;
+ }
+
+ button{
+    margin-top: 8%;
+    margin-bottom: 10%;
+ }
+
+#form button{
+    font-weight: 500;
+    font-size: 16px;
+}
+
+hr{
+    color: #707070A0;
+}
+ 
+
+footer p{
+    font-size: 16px;
+}
